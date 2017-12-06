@@ -1,0 +1,24 @@
+﻿  main.cpp
+  Game.cpp
+  Generating Code...
+     Creating library C:\Users\jonat\Downloads\game-2-master\game-2-master\x64\Debug\PA9.lib and object C:\Users\jonat\Downloads\game-2-master\game-2-master\x64\Debug\PA9.exp
+Game.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "public: void __cdecl Game::init(char const *,int,int,int,int,bool)" (?init@Game@@QEAAXPEBDHHHH_N@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function "public: void __cdecl Game::init(char const *,int,int,int,int,bool)" (?init@Game@@QEAAXPEBDHHHH_N@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "public: void __cdecl Game::init(char const *,int,int,int,int,bool)" (?init@Game@@QEAAXPEBDHHHH_N@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_DestroyWindow referenced in function "public: void __cdecl Game::clean(void)" (?clean@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "public: void __cdecl Game::handleEvents(void)" (?handleEvents@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "public: void __cdecl Game::init(char const *,int,int,int,int,bool)" (?init@Game@@QEAAXPEBDHHHH_N@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function "public: void __cdecl Game::init(char const *,int,int,int,int,bool)" (?init@Game@@QEAAXPEBDHHHH_N@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "public: void __cdecl Game::init(char const *,int,int,int,int,bool)" (?init@Game@@QEAAXPEBDHHHH_N@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "public: void __cdecl Game::render(void)" (?render@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_RenderCopy referenced in function "public: void __cdecl Game::render(void)" (?render@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "public: void __cdecl Game::render(void)" (?render@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_DestroyRenderer referenced in function "public: void __cdecl Game::clean(void)" (?clean@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "public: void __cdecl Game::init(char const *,int,int,int,int,bool)" (?init@Game@@QEAAXPEBDHHHH_N@Z)
+Game.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function "public: void __cdecl Game::clean(void)" (?clean@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function "public: void __cdecl Game::init(char const *,int,int,int,int,bool)" (?init@Game@@QEAAXPEBDHHHH_N@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Program Files\Development\SDL2-2.0.7\lib\x86\SDL2.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Program Files\Development\SDL2-2.0.7\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Program Files\Development\SDL2_image-2.0.1\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\jonat\Downloads\game-2-master\game-2-master\x64\Debug\PA9.exe : fatal error LNK1120: 16 unresolved externals

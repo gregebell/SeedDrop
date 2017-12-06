@@ -1,0 +1,24 @@
+Ok bitches this is how you set your shit up:
+
+1. At the top left theres a dropdown called "branches"
+
+2. Find the one with your name and go to it, these are the only files you will edit
+    DO NOT EDIT FILES ON OTHER PEOPLE'S BRANCHES
+    
+3. Download all of the files in your branch.
+
+4. Keep them in a folder just like they are on here. So all of those .dll files and .cpp files and shit should be in the same folder
+    and the assets folder should be inside that.
+    
+5. The folder where all of that downloaded shit is, is the folder you will work in from now on
+
+6. Open up the PA9 solution file and all of the other shit (cpp and .h files) should be there
+
+7. Now you have to link all the libraries (you need sdl2 and SDL images)
+      you can google SDL then go to the page, find SDL 2.0 and download the one that says VISUAL C++
+      
+      You can get the images one from the download link in this youtube video: https://www.youtube.com/watch?v=YrWQsuDT3NE
+            download the dev folder from the video, then follow the video instructions to link your libraries 
+            
+8. You're done. Now you can work on your parts in the folder you downloaded, then upload your finished files back TO YOUR OWN BRANCH
+   and I will commit the changes to the master branch (which is teh final product branch)

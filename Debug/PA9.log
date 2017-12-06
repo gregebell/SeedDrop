@@ -1,0 +1,35 @@
+﻿  Game.cpp
+c:\users\jonat\downloads\game-2-master\game-2-master\spritecomponent.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\spritecomponent.h(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\collidercomponent.h(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\collidercomponent.h(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(484): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(491): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(498): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(505): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(512): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(551): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(568): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(585): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(603): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(626): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(628): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(657): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(658): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(663): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(664): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(695): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(696): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(701): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\game.cpp(702): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jonat\downloads\game-2-master\game-2-master\ecs.h(95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\jonat\downloads\game-2-master\game-2-master\tilecomponent.h(53): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,float,float,int&,int&,int,int>(float &&,float &&,int &,int &,int &&,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+c:\users\jonat\downloads\game-2-master\game-2-master\ecs.h(95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PA9.vcxproj -> C:\Users\jonat\Downloads\game-2-master\game-2-master\Debug\PA9.exe
+  PA9.vcxproj -> C:\Users\jonat\Downloads\game-2-master\game-2-master\Debug\PA9.pdb (Full PDB)
