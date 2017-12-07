@@ -1,3 +1,8 @@
+//Names: Andrew Trageser, Johnny Hein, Daniel , Gregory Bellinger
+//Assignment: PA9
+//Title: Seed Drop
+//Description: Endless Verticle Scroller 
+
 #include <iostream>
 #include <SDL.h>
 #include <time.h>
